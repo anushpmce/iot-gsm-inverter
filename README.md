@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to IoT based data accqusation from grit tie inverter
 
 You can use the [editor on GitHub](https://github.com/anushpmce/iot-gsm-inverter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
